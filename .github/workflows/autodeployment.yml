@@ -21,6 +21,9 @@ jobs:
       - name: Install Dependencies
         run: npm install --force
 
+      - name: Install env-cmd
+        run: npm install env-cmd
+
       - name: Build
         run: npm run build:stage
 
@@ -44,10 +47,3 @@ jobs:
         run: |
           # Remove the private key to ensure it's not left on the runner
           rm -f ~/.ssh/id_rsa
-
-
-
-
-
-
-
