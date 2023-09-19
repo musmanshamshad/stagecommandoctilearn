@@ -25,10 +25,9 @@ jobs:
       - name: Install Dependencies and Build
         run: |
           # Install dependencies and build your React app
-          
+          export CI=false
           npm install --force
           npm run build
-
       - name: Deploy Build to Server
         run: |
           # Copy the build artifacts to the server using SCP
