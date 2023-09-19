@@ -22,7 +22,7 @@ jobs:
         run: npm install --force
 
       - name: Build
-        run: npm run build:stage:force
+        run: npm run build:stage --force
 
       - name: Set up SSH
         run: |
