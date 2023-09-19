@@ -3,7 +3,7 @@ name: Deploy to Server
 on:
   push:
     branches:
-      - stage # Change to your desired branch name
+      - master # Change to your desired branch name
 
 jobs:
   deploy:
