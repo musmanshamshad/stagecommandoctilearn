@@ -21,11 +21,8 @@ jobs:
       - name: Install Dependencies
         run: npm install --force
 
-      - name: Install env-cmd
-        run: npm install env-cmd
-
       - name: Build
-        run: npm run build:stage
+        run: npm run build:stage:force
 
       - name: Set up SSH
         run: |
