@@ -1,0 +1,43 @@
+.quill-send-btn {
+
+    bottom: 13%;
+    right: 4%;
+  }
+  .btnStyle{
+    cursor: pointer;
+    position: absolute;
+    height: 30px;
+    width: 30px;
+    outline: none;
+    border: none;
+    background: rgb(247, 232, 245);
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .tox:not(.tox-tinymce-inline) .tox-editor-header{
+    bottom: 0px !important;
+    position: absolute;
+  }
+  .Wirisformula{
+    width: 500px !important;
+    max-width: 1500px !important;
+  }
+  .tox-statusbar__branding{
+    display: none;
+  }
+  .container{
+    height: 250px 
+  }
+  .edit-quill-send-btn {
+    bottom: 10%;
+    right: 4%;
+  
+  }
+  .tox .tox-editor-container{
+    margin-bottom: 65px;
+  }
+  .tox-statusbar__path-item{
+    display: none;
+  }

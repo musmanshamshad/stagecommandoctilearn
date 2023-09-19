@@ -1,0 +1,51 @@
+{
+  "hasUnits": false,
+  "content": [
+    {
+      "chapter": "Chapter 1. Forces",
+      "learningObjectives": [
+        {
+          "value": "Describe sum how to measure a variety of lengths with appropriate precision using tapes, rulers and $$ \\sum(x+y) $$  micrometers (including reading the scale onan analogue micrometer)."
+        },
+        {
+          "value": "Describe qualitatively motion in a circular path due to a constant perpendicularforce, including electrostatic forces on an electron in anatom and gravitational forces on a satellite. (F = mv2 /r is notrequired."
+        },
+        {
+          "value": "Recall and use theequation weight = mass × gravitational field strength."
+        },
+        {
+          "value": "*recognise the significance of the term“limit of proportionality” for an elasticsolid (anunderstanding of the elastic limit is notrequired). "
+        },
+        {
+          "value": "Understand that a scalarquantity hasmagnitude (size) only and that a vector quantity has magnitudeand direction."
+        },
+        {
+          "value": "Describe a translation by using a vector represented by e.g. x y e o, AB or a. Add and subtract vectors. Multiply a vector by a scalar."
+        },
+        {
+          "value": "Know that the following quantities are vectors: displacement, force, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+        }
+      ]
+    },
+    {
+      "chapter": "Chapter 2. Pressure",
+      "learningObjectives": [
+        {
+          "value": "Describe sum how to measure a variety of lengths with appropriate precision using tapes, rulers and $$ \\sum(x+y) $$  micrometers (including reading the scale onan analogue micrometer)."
+        },
+        {
+          "value": "Describe qualitatively motion in a circular path due to a constant perpendicularforce, including electrostatic forces on an electron in anatom and gravitational forces on a satellite. (F = mv2 /r is notrequired."
+        },
+        {
+          "value": "Recall and use theequation weight = mass × gravitational field strength."
+        },
+        {
+          "value": "*recognise the significance of the term“limit of proportionality” for an elasticsolid (anunderstanding of the elastic limit is notrequired). "
+        },
+        {
+          "value": "Understand that a scalarquantity hasmagnitude (size) only and that a vector quantity has magnitudeand direction."
+        }
+      ]
+    }
+  ]
+}

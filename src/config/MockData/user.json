@@ -1,0 +1,12 @@
+{
+  "category": "Student",
+  "city": "Rawalpindi",
+  "contact": "+923348506479",
+  "country": "Pakistan",
+  "curriculum": "CIE",
+  "fName": "Asad",
+  "grade": "3",
+  "img": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+  "lName": "Bhatti",
+  "school": "National University of Sciences and Technology"
+}

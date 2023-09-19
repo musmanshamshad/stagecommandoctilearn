@@ -1,0 +1,44 @@
+[
+  {
+    "completed": "80",
+    "label": "Unit-1. Motion, Forces and Energy",
+    "nested": [
+      {
+        "completed": "70",
+        "label": "Chapter-1. Physical Quantities and Measurement Techniques",
+        "nested": [
+          {
+            "completed": "90",
+            "label": "Snack-1"
+          },
+          {
+            "completed": "100",
+            "label": "Snack-2"
+          }
+        ]
+      },
+      {
+        "completed": "40",
+        "label": "Chapter-2. Motion"
+      }
+    ]
+  },
+  {
+    "completed": "10",
+    "label": "Unit-1. Thermal Physics",
+    "nested": [
+      {
+        "completed": "20",
+        "label": "Chapter-1. Heat"
+      },
+      {
+        "completed": "40",
+        "label": "Chapter-2. Diffusion"
+      },
+      {
+        "completed": "40",
+        "label": "Chapter-3. Conservation of Energy"
+      }
+    ]
+  }
+]

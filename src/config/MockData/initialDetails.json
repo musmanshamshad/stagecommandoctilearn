@@ -1,0 +1,43 @@
+ [
+    {
+      "id": "1",
+      "imgPath": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mnx8dXNlciUyMHByb2ZpbGV8ZW58MHx8MHx8&w=1000&q=80",
+      "name": "Jane Doe",
+      "email": "janedoe@gmail.com",
+      "address": "New Delhi, India",
+      "profession":"Student"
+    },
+    {
+      "id": "2",
+      "imgPath": "https://upload.wikimedia.org/wikipedia/en/7/70/Shawn_Tok_Profile.jpg",
+      "name": "Mary Rosamund",
+      "email": "agra@rosie.com",
+      "address": "Tbilisi, India",
+      "profession":"Teacher"
+    },
+    {
+      "id": "3",
+      "imgPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2VZBC9nmPsyANlpZzmu4Sl4nBYeBHqNKx00S1WBXGKdfYTYq94aZQ6A-Q-3XXJYZjRgM&usqp=CAU",
+      "name": "Sherlock Watson",
+      "email": "irene@johnlock.com",
+      "address": "Baker Street, India",
+      "profession":"Student"
+    },
+    {
+      "id": "4",
+      "imgPath": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT8DLCX8WkTXBhPLEdDSurXmr66XlwIpa_EuY4cpUS9WxexK-piyps9ivFHtbnltBgDq7g&usqp=CAU",
+      "name": "John Holmes",
+      "email": "mary@johnlock.com",
+      "address": "Baker Street, India",
+      "profession": "Teacher"
+    },
+    {
+      "id": "5",
+      "imgPath": "https://www.assyst.de/cms/upload/sub/digitalisierung/18-F.jpg",
+      "name": "Mycroft Lestrade",
+      "email": "britishgovt@gmail.com",
+      "address": "London, India",
+      "profession":"Student"
+    }
+   
+  ]

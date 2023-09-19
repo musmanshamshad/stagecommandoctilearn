@@ -1,0 +1,156 @@
+[
+  {
+    "name": "Forces , Motion and Energy",
+    "label": "Unit 1: Forces , Motion and Energy",
+    "hasDropDown": true,
+    "children": [
+      {
+        "name": "snack-1",
+        "label": "Chapter 1. kinematics",
+        "description": "A paragraph is a group of sentences that fleshes out a single idea. In order for a paragraph to be effective, it must begin with a topic sentence, have sentences that support the main idea of that paragraph, and maintain a consistent flow. • presents a single idea.A paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragraphs add one idea at a time to your broader argumentA paragraph is a group of sentences that fleshes out a single idea. In order for a paragraph to be effective, it must begin with a topic sentence, have sentences that support the main idea of that paragraph, and maintain a consistent flow. • presents a single idea.A paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragraphs add one idea at a time to your broader argumentThe branch of mechanics concerned with the motion of objects without reference to the forces which cause the motion. "
+      },
+      {
+        "name": "snack-2",
+        "label": "Chapter 2: Mass,Weight and Density",
+        "description": "A paragraph is a group of sentences that fleshes out a single idea. In order for a paragraph to be effective, it must begin with a topic sentence, have sentences that support the main idea of that paragraph, and maintain a consistent flow. • presents a single idea.A paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragraphs add one idea at a time to your broader argument A paragraph is a group of sentences that fleshes out a single idea. In order for a paragraph to be effective, it must begin with a topic sentence, have sentences that support the main idea of that paragraph, and maintain a consistent flow. • presents a single idea.A paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragraphs add one idea at a time to your broader argumentThe branch of mechanics concerned with the motion of objects without reference to the forces which cause the motion. "
+      },
+      {
+        "name": "snack-3",
+        "label": "Chapter 3: Mass,Weight and Density",
+        "description": "A paragraph is a group of sentences that fleshes out a single idea. In order for a paragraph to be effective, it must begin with a topic sentence, have sentences that support the main idea of that paragraph, and maintain a consistent flow. • presents a single idea.A paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragraphs add one idea at a time to your broader argument A paragraph is a group of sentences that fleshes out a single idea. In order for a paragraph to be effective, it must begin with a topic sentence, have sentences that support the main idea of that paragraph, and maintain a consistent flow. • presents a single idea.A paragraph is a series of related sentences developing a central idea, called the topic. Try to think about paragraphs in terms of thematic unity: a paragraph is a sentence or a group of sentences that supports one central, unified idea. Paragraphs add one idea at a time to your broader argument The branch of mechanics concerned with the motion of objects without reference to the forces which cause the motion."
+      }
+    ]
+  },
+  {
+    "name": "Volume",
+    "label": "Volume",
+    "hasDropDown": true,
+    "children": [
+      {
+        "name": "snack-1",
+        "label": "Snack 1",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      },
+      {
+        "name": "snack-2",
+        "label": "Snack 2",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      },
+      {
+        "name": "snack-3",
+        "label": "Snack 3",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      }
+    ]
+  },
+  {
+    "name": "Temperature",
+    "label": "Temperature",
+    "hasDropDown": true,
+    "children": [
+      {
+        "name": "snack-1",
+        "label": "Snack 1",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      },
+      {
+        "name": "snack-2",
+        "label": "Snack 2",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      },
+      {
+        "name": "snack-3",
+        "label": "Snack 3",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      }
+    ]
+  },
+  {
+    "name": "Heat",
+    "label": "Heat",
+    "hasDropDown": true,
+    "children": [
+      {
+        "name": "snack-1",
+        "label": "Snack 1",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      },
+      {
+        "name": "snack-2",
+        "label": "Snack 2",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      },
+      {
+        "name": "snack-3",
+        "label": "Snack 3",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      }
+    ]
+  },
+  {
+    "name": "Nuclear Physics",
+    "label": "Nuclear Physics",
+    "hasDropDown": true,
+    "children": [
+      {
+        "name": "snack-1",
+        "label": "Snack 1",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      },
+      {
+        "name": "snack-2",
+        "label": "Snack 2",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      },
+      {
+        "name": "snack-3",
+        "label": "Snack 3",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      }
+    ]
+  },
+  {
+    "name": "Atomic Physics",
+    "label": "Atomic Physics",
+    "hasDropDown": true,
+    "children": [
+      {
+        "name": "snack-1",
+        "label": "Snack 1",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      },
+      {
+        "name": "snack-2",
+        "label": "Snack 2",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      },
+      {
+        "name": "snack-3",
+        "label": "Snack 3",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      }
+    ]
+  },
+  {
+    "name": "Statistics",
+    "label": "Statistics",
+    "hasDropDown": true,
+    "children": [
+      {
+        "name": "snack-1",
+        "label": "Snack 1",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      },
+      {
+        "name": "snack-2",
+        "label": "Snack 2",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      },
+      {
+        "name": "snack-3",
+        "label": "Snack 3",
+        "description": "dsfjhdsfklhsdlkjfhsdkjfhsdlfksd khfsdkfhds dhffdgfdh dhfdhfdsf hjfdhf hdfdsfhds dfdhf jhgfdhf "
+      }
+    ]
+  }
+]

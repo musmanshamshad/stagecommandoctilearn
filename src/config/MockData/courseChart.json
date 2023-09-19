@@ -1,0 +1,59 @@
+
+ [
+  {
+    "day": "M",
+    "lineRange": "24"
+  },
+  {
+    "day": "T",
+    "lineRange": "2"
+  },
+  {
+    "day": "W",
+    "lineRange": "2"
+  },
+  {
+    "day": "T",
+    "lineRange": "1"
+  },
+  {
+    "day": "F",
+    "lineRange": "9"
+  },
+  {
+    "day": "S",
+    "lineRange": "4"
+  },
+  {
+    "day": "S",
+    "lineRange": "9"
+  },
+  {
+    "day": "M",
+    "lineRange": "3"
+  },
+  {
+    "day": "T",
+    "lineRange": "2"
+  },
+  {
+    "day": "W",
+    "lineRange": "7"
+  },
+  {
+    "day": "T",
+    "lineRange": "1"
+  },
+  {
+    "day": "F",
+    "lineRange": "9"
+  },
+  {
+    "day": "S",
+    "lineRange": "3"
+  },
+  {
+    "day": "S",
+    "lineRange": "3"
+  }
+]

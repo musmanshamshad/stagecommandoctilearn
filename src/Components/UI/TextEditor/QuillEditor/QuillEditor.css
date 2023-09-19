@@ -1,0 +1,51 @@
+.quill-wrapper {
+  width: 100%;
+  margin: 20px auto;
+  position: relative;
+}
+img{
+  /* width: 100%; */
+}
+.quill-container {
+  display: flex;
+  flex-direction: column-reverse;
+  width: 100%;
+  border: 1px solid rgb(244, 244, 251);
+  border-radius: 15px;
+  background: rgb(248, 248, 252);
+}
+
+.quill-container .ql-editor {
+  height: auto !important;
+}
+
+.ql-toolbar {
+  border-top: 1px solid rgb(244, 244, 251);
+  padding-right: 10rem;
+}
+
+.ql-container.ql-snow {
+  border: none;
+}
+
+.ql-toolbar.ql-snow {
+  border: none;
+  padding-right: 50px;
+}
+
+.quill-send-btn {
+  cursor: pointer;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  margin: 10px;
+  height: 30px;
+  width: 30px;
+  outline: none;
+  border: none;
+  background: rgb(247, 232, 245);
+  border-radius: 5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

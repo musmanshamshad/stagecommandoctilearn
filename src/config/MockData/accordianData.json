@@ -1,0 +1,1139 @@
+{
+  "hasUnits": true,
+  "content": [
+    {
+      "unit": "Unit 1. Motion, Forces and Energy",
+      "completed": "14%",
+      "chapters": [
+        {
+          "name": "Physical quantities and measurement techniques",
+          "completed": "14%",
+          "snacks": [
+            {
+              "name": "Snack",
+              "completed": "14%"
+            }
+          ],
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": " <div>describe qualitatively motion in a circular path due to a constant perpendicular force, including electrostatic forces on an electron in an atom and gravitational forces on a satellite. (F = mv 2 /r is not required.) </div>"
+            },
+            {
+              "value": "recall and use the equation weight = mass × gravitational field strength."
+            },
+            {
+              "value": "*recognise the significance of the term “limit of proportionality” for an elastic solid (an understanding of the elastic limit is not required). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Describe a translation by using a vector represented by e.g. x y e o, AB or a. Add and subtract vectors. Multiply a vector by a scalar."
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Motion",
+          "completed": "14%",
+          "snacks": [
+            {
+              "name": "Snack",
+              "completed": "14%"
+            }
+          ],
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Mass and weight",
+          "completed": "14%",
+          "snacks": [
+            {
+              "name": "Snack",
+              "completed": "14%"
+            }
+          ],
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Density",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Forces",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Energy, work and power",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "Unit 2. Therman Physics",
+      "completed": "74%",
+      "chapters": [
+        {
+          "name": "Physical quantities and measurement techniques",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Motion",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Mass and weight",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Density",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Forces",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Energy, work and power",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "Unit 4. Electricity and Magnetism",
+      "completed": "74%",
+      "chapters": [
+        {
+          "name": "Physical quantities and measurement techniques",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Motion",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Mass and weight",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Density",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Forces",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Energy, work and power",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "Unit 3. Waves",
+      "completed": "74%",
+      "chapters": [
+        {
+          "name": "Physical quantities and measurement techniques",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Motion",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Mass and weight",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Density",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Forces",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Energy, work and power",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "Unit 5. Nuclear Physics",
+      "completed": "74%",
+      "chapters": [
+        {
+          "name": "Physical quantities and measurement techniques",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Motion",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Mass and weight",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Density",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Forces",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Energy, work and power",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "unit": "Unit 6. Space Physics",
+      "completed": "44%",
+      "chapters": [
+        {
+          "name": "Physical quantities and measurement techniques",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Motion",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Mass and weight",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Density",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Forces",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        },
+        {
+          "name": "Energy, work and power",
+          "completed": "14%",
+          "learningObjectives": [
+            {
+              "value": "Describe how to measure a variety of lengths with appropriate precision using tapes, rulers and micrometers (including reading the scale on an analogue micrometer)."
+            },
+            {
+              "value": "Describe how to use a measuring cylinder to measure the volume of a liquid and to determine the volume of a solid by displacement."
+            },
+            {
+              "value": "Describe how to measure a variety of time intervals using clocks and digital timers."
+            },
+            {
+              "value": "Determine an average value for a small distance and for a short interval of time by measuring multiples (including the period of oscillation of a pendulum). "
+            },
+            {
+              "value": "Understand that a scalar quantity has magnitude (size) only and that a vector quantity has magnitude and direction.  "
+            },
+            {
+              "value": "Know that the following quantities are scalars: distance, speed, time, mass, energy and temperature. "
+            },
+            {
+              "value": "Know that the following quantities are vectors: displacement, force, weight, velocity, acceleration, momentum, electric field strength and gravitational field strength."
+            },
+            {
+              "value": "Determine, by calculation or graphically, the resultant of two vectors at right angles."
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

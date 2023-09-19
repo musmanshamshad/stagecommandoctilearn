@@ -1,0 +1,50 @@
+.App {
+  text-align: center;
+}
+
+body {
+  font-family: "AvenirNext";
+  font-family: "HelviticaNue";
+}
+strong {
+  /* font-family: "AvenirNext"; */
+  font-family: "HelviticaNue-Bold";
+}
+html {
+  font-size: 100%;
+}
+#input[type="file"] {
+  display: none;
+}
+.image-upload {
+  cursor: pointer;
+}
+.fullscreen-enabled {
+  background: #f7f6fa;
+}
+.custom-class {
+  background-color: pink
+}
+.css-oj8kmw{
+  overflow-y: auto;
+}
+.tox:not(.tox-tinymce-inline) .tox-editor-header{
+  bottom: 0px !important;
+  position: absolute;
+}
+.Wirisformula{
+  width: 500px !important;
+  max-width: 1000px !important;
+}
+@media screen and (max-width: 767px) {
+  .MuiTabPanel-root{
+    padding: 10px !important;
+  }
+    .MuiAccordionSummary-root{
+      padding:0px !important;
+      margin: 0px 5px !important;
+    }
+    .MuiAccordionDetails-root{
+      padding: 0px !important;
+    }
+}
