@@ -13,6 +13,17 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v2
 
+      - name: Set up Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: 14 # Specify the Node.js version you need
+
+      - name: Install Dependencies
+        run: npm install --force
+
+      - name: Build
+        run: npm run build:stage --force
+
       - name: Set up SSH
         run: |
           mkdir -p ~/.ssh
@@ -22,13 +33,14 @@ jobs:
         env:
           PRIVATE_KEY: ${{ secrets.PRIVATE_KEY }}
 
-      - name: Install Dependencies and Build
-        run: |
-          # Install dependencies and build your React app
-          export CI=false
-          npm install --force
-          npm run build
       - name: Deploy Build to Server
         run: |
           # Copy the build artifacts to the server using SCP
           scp -r ./build/* ubuntu@15.206.194.156:/home/ubuntu/web/WebApp_Frontend_User
+        continue-on-error: true # Continue on error to allow cleanup step
+
+      - name: Clean up
+        if: always() # Ensure this step runs even if the previous step failed
+        run: |
+          # Remove the private key to ensure it's not left on the runner
+          rm -f ~/.ssh/id_rsa
