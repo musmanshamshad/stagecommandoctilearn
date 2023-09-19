@@ -3,7 +3,7 @@ name: Deploy to Server
 on:
   push:
     branches:
-      - master # Change to your desired branch name
+      - stage # Change to your desired branch name
 
 jobs:
   deploy:
@@ -22,7 +22,7 @@ jobs:
         run: npm install --force
 
       - name: Build
-        run: npm run build:master
+        run: npm run build:stage
 
       - name: Set up SSH
         run: |
